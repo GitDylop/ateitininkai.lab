@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ateitininkai.lt",
+        "description": "An expierment of new design for ateitininkai.lt.",
+        "url": "ateitininkai.lt/index.html",
+        "color": "#ffbe2e",
+        "image": "https://www.ateitininkai.lt/web/assets/img/downloads/juodas_zenklas.png"
+    },
+    {
+        "name": "Project Beta",
+        "description": "A collaborative platform for creative minds.",
+        "url": "https://example.com/project-beta",
+        "color": "#3498db",
+        "image": "https://example.com/images/project-beta.png"
+    }
+]

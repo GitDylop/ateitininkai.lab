@@ -1,0 +1,11 @@
+* {
+    background-color: #ffebc2;
+}
+
+.block {
+    width: 49%;
+    aspect-ratio: 4 / 2;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
